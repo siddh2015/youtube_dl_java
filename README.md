@@ -1,4 +1,4 @@
-# ydl_java
+# youtube_dl_java
 execute youtube-dl through java
 
 required components ;
