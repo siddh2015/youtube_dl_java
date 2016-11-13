@@ -26,3 +26,8 @@ Future changes (soon to come)
 1. OS detection
 2. fixing stderr as verbose fails.
 3. update youtube-dl sub repo
+
+New featues (testing )
+
+1.OS detection   https://github.com/siddht1/youtube_dl_java/blob/master/new_comp/OpertingSystemInfo.java
+2. auto updater     https://github.com/siddht1/youtube_dl_java/blob/master/new_comp/auto_update.java
