@@ -30,4 +30,5 @@ Future changes (soon to come)
 New featues (testing )
 
 1.OS detection   https://github.com/siddht1/youtube_dl_java/blob/master/new_comp/OpertingSystemInfo.java
+code obtained from   http://www.javacoderanch.com/how-to-get-operating-system-name-and-version.html
 2. auto updater     https://github.com/siddht1/youtube_dl_java/blob/master/new_comp/auto_update.java
