@@ -19,3 +19,10 @@ or execute any other commands
 as provided in
 https://github.com/rg3/youtube-dl#description
 just ignore the "youtube-dl " as its already present 
+
+
+Future changes (soon to come)
+
+1. OS detection
+2. fixing stderr as verbose fails.
+3. update youtube-dl sub repo
