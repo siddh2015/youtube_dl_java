@@ -21,6 +21,8 @@ https://github.com/rg3/youtube-dl#description
 just ignore the "youtube-dl " as its already present 
 
 
+<br> getting ready for version 0.0.2 </br>
+
 Future changes (soon to come)
 
 1. OS detection
