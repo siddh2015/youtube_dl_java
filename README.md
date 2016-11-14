@@ -21,7 +21,7 @@ https://github.com/rg3/youtube-dl#description
 just ignore the "youtube-dl " as its already present 
 
 
-<br> getting ready for version 0.0.2 </br>
+<br><font color="green"> getting ready for version 0.0.2 </font></br>
 
 Future changes (soon to come)
 
@@ -30,6 +30,7 @@ Future changes (soon to come)
 3. update youtube-dl sub repo
 
 New featues (testing )
+
 
 1.OS detection   https://github.com/siddht1/youtube_dl_java/blob/master/new_comp/OpertingSystemInfo.java
 code obtained from   http://www.javacoderanch.com/how-to-get-operating-system-name-and-version.html
