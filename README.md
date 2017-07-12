@@ -47,4 +47,18 @@ status :working
 
 
 
+#UNLICENSE
+   Added unlicense
+   
+   
+#MERGE 
+
+  This will be soon merged into youtube-dl-embed project  
+    under sub directory java
+    
+   So if you are following this you may be moved there    
+
+
+
+
 
